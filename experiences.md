@@ -9,15 +9,6 @@ active: experiences
 
 ## Education
 
-<div style="float: right">  <code> 2022.06 - 2022.08 </code> </div> 
-
-__UC Irvine__ 
-
-
-Visting Scholar
-<br/>
-<br/>
-
 <div style="float: right"> <code> 2021.03 - Present </code> </div> 
 
 __UNIST, Ulsan National Institute of Science and Technology__ 
@@ -27,6 +18,14 @@ Undergraduate student, Department of Physics
 <br/>
 <br/>
 
+<div style="float: right">  <code> 2022.06 - 2022.08 </code> </div> 
+
+__UC Irvine__ 
+
+
+Visting Scholar
+<br/>
+<br/>
 
 ## Lab Experiences
 
