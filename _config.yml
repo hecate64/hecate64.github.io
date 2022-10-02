@@ -18,6 +18,7 @@ github_username: hecate64
 disqus_username:
 
 # Build settings
+asset_url: /assets
 markdown: kramdown
 permalink: /:categories/:title/
 
