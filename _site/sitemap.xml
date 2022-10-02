@@ -3,7 +3,7 @@
 
   
   <url>
-    <loc>http://localhost:4000/posts/markdown/</loc>
+    <loc>https://hecate64.github.io/posts/markdown/</loc>
     
       <lastmod>2020-06-14</lastmod>
     
@@ -12,7 +12,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/es6/</loc>
+    <loc>https://hecate64.github.io/posts/es6/</loc>
     
       <lastmod>2016-06-29</lastmod>
     
@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/posts/welcome-to-jekyll/</loc>
+    <loc>https://hecate64.github.io/posts/welcome-to-jekyll/</loc>
     
       <lastmod>2016-06-29</lastmod>
     
@@ -49,7 +49,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/sitemap.xml</loc>
+      <loc>https://hecate64.github.io/sitemap.xml</loc>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
