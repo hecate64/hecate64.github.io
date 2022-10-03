@@ -14,7 +14,7 @@ active: publications
 __Squeezing Accumulators in Binary Neural Network Accelerators__ 
 
 
-Azat Azamat, *Jaewoo Park*,  Prof. Jongeun Lee
+Azat Azamat, *Jaewoo Park*, Jongeun Lee
 <br/>
 <br/>
 
@@ -24,6 +24,6 @@ Azat Azamat, *Jaewoo Park*,  Prof. Jongeun Lee
 __Centered Symmetric Quantizer__ 
 
 
-*Jaewoo Park*, Faaiz Asim, Prof. Jongeun Lee, Azat Azamat
+*Jaewoo Park*, Faaiz Asim, Jongeun Lee, Azat Azamat
 <br/>
 <br/>
