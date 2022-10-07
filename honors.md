@@ -9,7 +9,7 @@ active: Honors
 
 ## Honors and Awards
 
-<div style="float: right"> <code> KASI, NIMS </code> </div> 
+<div style="float: right"> <code> 2022 </code> </div> 
 
 __[Competition of Computational Relativity and Gravitational Waves](https://school.gw.nr.re.kr/2022/winter/)__ 
 

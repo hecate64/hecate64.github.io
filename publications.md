@@ -21,7 +21,7 @@ Azat Azamat, *Jaewoo Park*, Jongeun Lee
 
 <div style="float: right"> <code> BMVC 2022 </code> </div> 
 
-__Centered Symmetric Quantizer__ 
+__Centered Symmetric Quantization forHardware-Efficient Low-Bit Neural Networks__ 
 
 
 *Jaewoo Park*, Faaiz Asim, Jongeun Lee, Azat Azamat
