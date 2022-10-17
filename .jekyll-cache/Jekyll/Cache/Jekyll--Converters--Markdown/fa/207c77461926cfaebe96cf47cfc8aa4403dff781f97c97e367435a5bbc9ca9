@@ -1,4 +1,4 @@
-I"!<h2 id="publications">Publications</h2>
+I"<h2 id="publications">Publications</h2>
 
 <div style="float: right"> <code> ICCAD 2022 </code> </div>
 
@@ -12,8 +12,7 @@
 
 <p><strong>Centered Symmetric Quantization for Hardware-Efficient Low-Bit Neural Networks</strong></p>
 
-<p>Faaiz Asim, <em>Jaewoo Park</em>,  Jongeun Lee, Azat Azamat <br />
-<em>(* For equal contribution)</em>
+<p>Faaiz Asim*, <em>Jaewoo Park</em>*,  Jongeun Lee, Azat Azamat    <em>(* For equal contribution)</em>
 <br />
 <br /></p>
 :ET

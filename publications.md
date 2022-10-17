@@ -24,7 +24,6 @@ Azat Azamat, *Jaewoo Park*, Jongeun Lee
 __Centered Symmetric Quantization for Hardware-Efficient Low-Bit Neural Networks__ 
 
 
-Faaiz Asim\*, *Jaewoo Park*\*,  Jongeun Lee, Azat Azamat   
-*(\* For equal contribution)*
+Faaiz Asim\*, *Jaewoo Park*\*,  Jongeun Lee, Azat Azamat    *(\* For equal contribution)*
 <br/>
 <br/>
