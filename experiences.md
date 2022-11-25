@@ -20,14 +20,8 @@ Undergraduate student, Department of Physics
 
 <div style="float: right">  <code> 2022.06 - 2022.08 </code> </div> 
 
-__UC Irvine__ 
 
-
-Visting Scholar
-<br/>
-<br/>
-
-## Lab Experiences
+## Experiences
 
 <div style="float: right">  <code> 2020.12 - Present </code> </div> 
 
@@ -38,7 +32,7 @@ Researcher
 <br/>
 <br/>
 
-<div style="float: right">  <code> 2022.06 - Present </code> </div> 
+<div style="float: right">  <code> Expected 2022.12 </code> </div> 
 
 __[Embedded & Cyber-Phisical Systems Lab](https://aicps.eng.uci.edu/)__
 

@@ -26,7 +26,4 @@ As a researcher in the [ICCL](https://iccl.unist.ac.kr/) lab, I've done research
 I also have teaching experiences in UNIST, teaching undergraduate and first year master students to make a working example of a simple DNN Accelerator in HLS from scratch. 
 
 
-I have chosen my major to be physics, also being interested in mathematics and physics research. I have worked on large scale cosmological simulations using the data from JWST with prof. Sandro Tacchella. Additionally, I study string theory with prof. Rak-Kyeong Seong, hoping to have publications in the future. 
-
-
 I am currently searching for chances to enter a Ph.D. program in the US.
