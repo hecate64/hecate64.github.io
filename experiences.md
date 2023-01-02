@@ -18,7 +18,6 @@ Undergraduate student, Department of Physics
 <br/>
 <br/>
 
-<div style="float: right">  <code> 2022.06 - 2022.08 </code> </div> 
 
 
 ## Experiences
@@ -32,7 +31,7 @@ Researcher
 <br/>
 <br/>
 
-<div style="float: right">  <code> Expected 2022.12 </code> </div> 
+<div style="float: right">  <code> 2022.12 - 2023.03 </code> </div> 
 
 __[Embedded & Cyber-Phisical Systems Lab](https://aicps.eng.uci.edu/)__
 

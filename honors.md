@@ -23,7 +23,7 @@ Winner
 __International Olympiad of Astronomy and Astrophysics__ 
 
 
-National Team of Republic of Korea
+Honorable mention
 <br/>
 <br/>
 

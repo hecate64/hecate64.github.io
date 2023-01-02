@@ -11,7 +11,7 @@ active: publications
 
 <div style="float: right"> <code> ICCAD 2022 </code> </div> 
 
-__Squeezing Accumulators in Binary Neural Network Accelerators__ 
+__[Squeezing Accumulators in Binary Neural Network Accelerators](https://dl.acm.org/doi/10.1145/3508352.3549418)__ 
 
 
 Azat Azamat, *Jaewoo Park*, Jongeun Lee
@@ -21,7 +21,7 @@ Azat Azamat, *Jaewoo Park*, Jongeun Lee
 
 <div style="float: right"> <code> BMVC 2022 </code> </div> 
 
-__Centered Symmetric Quantization for Hardware-Efficient Low-Bit Neural Networks__ 
+__[Centered Symmetric Quantization for Hardware-Efficient Low-Bit Neural Networks](https://bmvc2022.mpi-inf.mpg.de/0538.pdf)__ 
 
 
 Faaiz Asim\*, *Jaewoo Park*\*,  Jongeun Lee, Azat Azamat    *(\* For equal contribution)*
