@@ -34,3 +34,13 @@ __ISEF International Science and Engineering Fair__
 
 Finalist (no awards due to COVID-19)
 <br/>
+<br/>
+
+
+
+## Journal Reviewer
+
+<div style="float: right"> <code> 2022 </code> </div> 
+
+__Expert Systems with Applications__ 
+<br/>

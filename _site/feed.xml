@@ -6,8 +6,8 @@
 </description>
     <link>https://hecate64.github.io/</link>
     <atom:link href="https://hecate64.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Jan 2023 14:53:30 +0900</pubDate>
-    <lastBuildDate>Mon, 02 Jan 2023 14:53:30 +0900</lastBuildDate>
+    <pubDate>Sun, 29 Jan 2023 18:10:41 -0800</pubDate>
+    <lastBuildDate>Sun, 29 Jan 2023 18:10:41 -0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -126,7 +126,7 @@
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Sun, 14 Jun 2020 00:00:00 +0900</pubDate>
+        <pubDate>Sun, 14 Jun 2020 00:00:00 -0700</pubDate>
         <link>https://hecate64.github.io/posts/markdown/</link>
         <guid isPermaLink="true">https://hecate64.github.io/posts/markdown/</guid>
         
@@ -171,7 +171,7 @@
 &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;       &lt;span class=&quot;c1&quot;&gt;// 2&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 </description>
-        <pubDate>Wed, 29 Jun 2016 22:09:47 +0900</pubDate>
+        <pubDate>Wed, 29 Jun 2016 06:09:47 -0700</pubDate>
         <link>https://hecate64.github.io/posts/es6/</link>
         <guid isPermaLink="true">https://hecate64.github.io/posts/es6/</guid>
         
@@ -199,7 +199,7 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 29 Jun 2016 01:09:47 +0900</pubDate>
+        <pubDate>Tue, 28 Jun 2016 09:09:47 -0700</pubDate>
         <link>https://hecate64.github.io/posts/welcome-to-jekyll/</link>
         <guid isPermaLink="true">https://hecate64.github.io/posts/welcome-to-jekyll/</guid>
         
