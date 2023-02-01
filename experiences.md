@@ -11,7 +11,7 @@ active: experiences
 
 <div style="float: right"> <code> 2021.03 - Present </code> </div> 
 
-__UNIST, Ulsan National Institute of Science and Technology__ 
+__Ulsan National Institute of Science and Technology (UNIST)__ 
 
 
 Undergraduate student, Department of Physics
@@ -24,7 +24,7 @@ Undergraduate student, Department of Physics
 
 <div style="float: right">  <code> 2020.12 - Present </code> </div> 
 
-__[Intelligent Computing and Codesign Lab](https://iccl.unist.ac.kr/)__
+__[Intelligent Computing and Codesign Lab, UNIST](https://iccl.unist.ac.kr/)__
 
 
 Researcher
@@ -33,7 +33,7 @@ Researcher
 
 <div style="float: right">  <code> 2022.12 - 2023.03 </code> </div> 
 
-__[Embedded & Cyber-Phisical Systems Lab](https://aicps.eng.uci.edu/)__
+__Kurdahi's Lab, UC Irvine__
 
 Visiting Scholar
 <br/>
