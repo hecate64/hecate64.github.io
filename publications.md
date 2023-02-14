@@ -9,6 +9,16 @@ active: publications
 
 ## Publications
 
+<div style="float: right"> <code> DAC 2023 </code> </div> 
+
+__NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM__ 
+
+
+*Jaewoo Park*, Sugil Lee, Jongeun Lee
+<br/>
+<br/>
+
+
 <div style="float: right"> <code> ICCAD 2022 </code> </div> 
 
 __[Squeezing Accumulators in Binary Neural Network Accelerators](https://dl.acm.org/doi/10.1145/3508352.3549418)__ 
