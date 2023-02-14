@@ -18,6 +18,15 @@ Undergraduate student, Department of Physics
 <br/>
 <br/>
 
+<div style="float: right"> <code> 2022.12 - 2023.03 </code> </div> 
+
+__UC Irvine__ 
+
+
+Visiting Scholar, Center of Embedded and Cyber-physical Systems
+<br/>
+<br/>
+
 
 
 ## Experiences
