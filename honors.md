@@ -38,9 +38,12 @@ Finalist (no awards due to COVID-19)
 
 
 
-## Journal Reviewer
+## Services
 
-<div style="float: right"> <code> 2022 </code> </div> 
+<div style="float: right"> <code> 2023 </code> </div> 
 
-__Expert Systems with Applications__ 
+__Journal Reviewer__ 
+
+
+Expert Systems with Applications
 <br/>

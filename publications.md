@@ -11,7 +11,7 @@ active: publications
 
 <div style="float: right"> <code> DAC 2023 </code> </div> 
 
-__NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM__ (accepted to DAC 2023) 
+__NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM__ (accepted) 
 
 
 *Jaewoo Park*, Sugil Lee, Jongeun Lee
