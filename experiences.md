@@ -18,7 +18,7 @@ Undergraduate student, Department of Physics
 <br/>
 <br/>
 
-<div style="float: right"> <code> 2022.12 - 2023.03 </code> </div> 
+<div style="float: right"> <code> 2023.01 - 2023.03 </code> </div> 
 
 __UC Irvine__ 
 
@@ -40,7 +40,7 @@ Researcher
 <br/>
 <br/>
 
-<div style="float: right">  <code> 2022.12 - 2023.03 </code> </div> 
+<div style="float: right">  <code> 2023.01 - 2023.03 </code> </div> 
 
 __Kurdahi's Lab, UC Irvine__
 
