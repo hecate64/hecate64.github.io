@@ -11,10 +11,20 @@ active: teaching
 
 <div style="float: right">  <code> 2022 Spring </code> </div> 
 
-__[UNIST EEE326: Tensor Processor Design](https://iccl.unist.ac.kr/~lab/Users/JongeunLee/ee326/projects.html)__ 
+__[Instructor of UNIST EEE326: Tensor Processor Design](https://iccl.unist.ac.kr/~lab/Users/JongeunLee/ee326/projects.html)__ 
 
 
 * NPU design from scratch, using HLS on Xilinx ZYNQ
 * Network quantization with pytorch
+<br/>
+<br/>
+
+
+<div style="float: right">  <code> 2021 Fall </code> </div> 
+
+__Teaching Assistant of LG Electronics DX Intensive Course__
+
+
+* Teaching LG employees about hands-on examples of natural language models and digital signal processing
 <br/>
 <br/>

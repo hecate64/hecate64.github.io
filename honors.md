@@ -29,7 +29,7 @@ Honorable mention
 
 <div style="float: right"> <code> 2020 </code> </div> 
 
-__ISEF International Science and Engineering Fair__ 
+__International Science and Engineering Fair__ 
 
 
 Finalist (no awards due to COVID-19)
