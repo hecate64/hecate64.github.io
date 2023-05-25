@@ -9,9 +9,19 @@ active: publications
 
 ## Publications
 
+<div style="float: right"> <code>  </code> </div> 
+
+__Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machine Learning-as-a-Service__ (submitted)
+
+
+*Jaewoo Park*, Chenghao Quan, Hyungon Moon and Jongeun Lee
+<br/>
+<br/>
+
+
 <div style="float: right"> <code> DAC 2023 </code> </div> 
 
-__NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM__ (accepted) 
+__NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM__ 
 
 
 *Jaewoo Park*, Sugil Lee, Jongeun Lee
