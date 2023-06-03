@@ -29,7 +29,7 @@ Winner
 
 <div style="float: right"> <code> 2020 </code> </div> 
 
-__International Olympiad of Astronomy and Astrophysics__ 
+__International Olympiad on Astronomy and Astrophysics__ 
 
 
 Honorable mention

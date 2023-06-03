@@ -14,7 +14,7 @@ active: publications
 __Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machine Learning-as-a-Service__ (submitted)
 
 
-*Jaewoo Park*, Chenghao Quan, Hyungon Moon and Jongeun Lee
+*Jaewoo Park*, Chenghao Quan, Hyungon Moon, Jongeun Lee
 <br/>
 <br/>
 
