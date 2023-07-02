@@ -9,7 +9,7 @@ active: teaching
 
 ## Courses
 
-<div style="float: right">  <code> 2022 Spring </code> </div> 
+<div style="float: right">  <code> Spring 2022 </code> </div> 
 
 __[Instructor of UNIST EEE326: Tensor Processor Design](https://iccl.unist.ac.kr/~lab/Users/JongeunLee/ee326/projects.html)__ 
 
@@ -20,7 +20,7 @@ __[Instructor of UNIST EEE326: Tensor Processor Design](https://iccl.unist.ac.kr
 <br/>
 
 
-<div style="float: right">  <code> 2021 Fall </code> </div> 
+<div style="float: right">  <code> Fall 2021 </code> </div> 
 
 __Teaching Assistant of LG Electronics DX Intensive Course__
 

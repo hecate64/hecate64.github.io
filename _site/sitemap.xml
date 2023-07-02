@@ -1,63 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  
-  <url>
-    <loc>https://hecate64.github.io/posts/markdown/</loc>
-    
-      <lastmod>2020-06-14</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hecate64.github.io/posts/es6/</loc>
-    
-      <lastmod>2016-06-29</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hecate64.github.io/posts/welcome-to-jekyll/</loc>
-    
-      <lastmod>2016-06-29</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
+
     <url>
-      <loc>https://hecate64.github.io/sitemap.xml</loc>
+      <loc>https://hecate64.github.io/</loc>
+      <lastmod>2023-07-02</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
-    
-  
-    
-  
-    
-  
+
+    <url>
+      <loc>https://hecate64.github.io/experiences/</loc>
+      <lastmod>2023-07-02</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+
+    <url>
+      <loc>https://hecate64.github.io/honors/</loc>
+      <lastmod>2023-07-02</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+
+    <url>
+      <loc>https://hecate64.github.io/publications/</loc>
+      <lastmod>2023-07-02</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+
+    <url>
+      <loc>https://hecate64.github.io/teaching/</loc>
+      <lastmod>2023-07-02</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+
 
 </urlset>
