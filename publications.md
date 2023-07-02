@@ -11,6 +11,16 @@ active: publications
 
 <div style="float: right"> <code>  </code> </div> 
 
+__Accelerating Transformers with Fourier-Based Attention for Efficient On-Device Inference__ (submitted)
+
+
+Hyeonjin Jo, Chaerin Sim, *Jaewoo Park*, Jongeun Lee
+<br/>
+<br/>
+
+
+<div style="float: right"> <code>  </code> </div> 
+
 __Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machine Learning-as-a-Service__ (submitted)
 
 
