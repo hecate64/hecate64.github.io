@@ -11,6 +11,15 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
+
+      <item>
+        <title>CV</title>
+        <description>CV</description>
+        <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+        <link>https://hecate64.github.io/assets/JaewooPark-CV.pdf</link>
+        <guid isPermaLink="true">https://hecate64.github.io/assets/JaewooPark-CV.pdf</guid>
+      </item>
+
       <item>
         <title>Experiences</title>
         <description>Experiences</description>
