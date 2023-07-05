@@ -41,7 +41,7 @@ __NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic T
 
 <div style="float: right"> <code> ICCAD 2022 </code> </div> 
 
-__[Squeezing Accumulators in Binary Neural Network Accelerators](https://dl.acm.org/doi/10.1145/3508352.3549418)__ 
+__[Squeezing Accumulators in Binary Neural Networks for Extremely Resource-Constrained Applications](https://dl.acm.org/doi/10.1145/3508352.3549418)__ 
 
 
 Azat Azamat, *Jaewoo Park*, Jongeun Lee
