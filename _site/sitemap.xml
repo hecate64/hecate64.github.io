@@ -4,35 +4,43 @@
 
     <url>
       <loc>https://hecate64.github.io/</loc>
-      <lastmod>2023-07-02</lastmod>
+      <lastmod>2023-07-21</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+
+
+    <url>
+      <loc>https://hecate64.github.io/assets/JaewooPark-CV.pdf</loc>
+      <lastmod>2023-07-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
 
     <url>
       <loc>https://hecate64.github.io/experiences/</loc>
-      <lastmod>2023-07-02</lastmod>
+      <lastmod>2023-07-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
 
     <url>
       <loc>https://hecate64.github.io/honors/</loc>
-      <lastmod>2023-07-02</lastmod>
+      <lastmod>2023-07-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
 
     <url>
       <loc>https://hecate64.github.io/publications/</loc>
-      <lastmod>2023-07-02</lastmod>
+      <lastmod>2023-07-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
 
     <url>
       <loc>https://hecate64.github.io/teaching/</loc>
-      <lastmod>2023-07-02</lastmod>
+      <lastmod>2023-07-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>

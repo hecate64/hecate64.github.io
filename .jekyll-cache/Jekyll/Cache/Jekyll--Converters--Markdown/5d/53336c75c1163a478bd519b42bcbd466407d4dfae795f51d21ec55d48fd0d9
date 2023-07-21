@@ -1,4 +1,4 @@
-I"ž<h2 id="publications">Publications</h2>
+I"Ë<h2 id="publications">Publications</h2>
 
 <div style="float: right"> <code>  </code> </div>
 
@@ -8,9 +8,9 @@
 <br />
 <br /></p>
 
-<div style="float: right"> <code>  </code> </div>
+<div style="float: right"> <code> ICCAD 2023 </code> </div>
 
-<p><strong>Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machine Learning-as-a-Service</strong> (submitted)</p>
+<p><strong>Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machine Learning-as-a-Service</strong> (accepted)</p>
 
 <p><em>Jaewoo Park</em>, Chenghao Quan, Hyungon Moon, Jongeun Lee
 <br />
@@ -26,7 +26,7 @@
 
 <div style="float: right"> <code> ICCAD 2022 </code> </div>
 
-<p><strong><a href="https://dl.acm.org/doi/10.1145/3508352.3549418">Squeezing Accumulators in Binary Neural Network Accelerators</a></strong></p>
+<p><strong><a href="https://dl.acm.org/doi/10.1145/3508352.3549418">Squeezing Accumulators in Binary Neural Networks for Extremely Resource-Constrained Applications</a></strong></p>
 
 <p>Azat Azamat, <em>Jaewoo Park</em>, Jongeun Lee
 <br />
