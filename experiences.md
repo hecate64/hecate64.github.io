@@ -40,6 +40,15 @@ Researcher
 <br/>
 <br/>
 
+<div style="float: right">  <code> 2023.07 - 2023.08 </code> </div> 
+
+__Deargen Inc.__
+
+
+Research Intern
+<br/>
+<br/>
+
 <div style="float: right">  <code> 2021.12 - 2023.03 </code> </div> 
 
 __Kurdahi's Lab, UC Irvine__
