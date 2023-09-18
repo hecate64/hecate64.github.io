@@ -21,7 +21,7 @@ Hyeonjin Jo, Chaerin Sim, *Jaewoo Park*, Jongeun Lee
 
 <div style="float: right"> <code> ICCAD 2023 </code> </div> 
 
-__[Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machine Learning-as-a-Service]("../assets/HDC_for_Efficient_PPML__ICCAD_2023_.pdf")__ 
+__[Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machine Learning-as-a-Service](../assets/HDC_for_Efficient_PPML__ICCAD_2023_.pdf)__ 
 
 
 *Jaewoo Park*, Chenghao Quan, Hyungon Moon, Jongeun Lee
