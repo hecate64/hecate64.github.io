@@ -31,7 +31,7 @@ __[Hyperdimensional Computing as a Rescue for Efficient Privacy-Preserving Machi
 
 <div style="float: right"> <code> DAC 2023 </code> </div> 
 
-__NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM__ 
+__[NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM](https://ieeexplore.ieee.org/document/10247747)__ 
 
 
 *Jaewoo Park*, Sugil Lee, Jongeun Lee
