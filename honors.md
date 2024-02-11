@@ -58,10 +58,22 @@ Finalist (no awards due to COVID-19)
 
 ## Services
 
+<div style="float: right"> <code> 2024 </code> </div> 
+
+__Journal Reviewer__ 
+
+
+ACM Transactions on Design Automation of Electronic Systems (TODAES)
+<br/>
+
+
+
+
+
 <div style="float: right"> <code> 2023 </code> </div> 
 
 __Journal Reviewer__ 
 
 
-Expert Systems with Applications
+Elsevier Expert Systems with Applications (ESWA)
 <br/>
