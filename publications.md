@@ -11,7 +11,7 @@ active: publications
 
 <div style="float: right"> <code> ISOCC 2023 </code> </div> 
 
-__Accelerating Transformers with Fourier-Based Attention for Efficient On-Device Inference__ 
+__[Accelerating Transformers with Fourier-Based Attention for Efficient On-Device Inference](https://ieeexplore.ieee.org/abstract/document/10396620)__ 
 
 
 Hyeonjin Jo, Chaerin Sim, *Jaewoo Park*, Jongeun Lee
