@@ -63,6 +63,16 @@ Finalist (no awards due to COVID-19)
 __Journal Reviewer__ 
 
 
+IEEE Embedded Systems Letters (ESL)
+<br/>
+
+
+
+<div style="float: right"> <code> 2024 </code> </div> 
+
+__Journal Reviewer__ 
+
+
 ACM Transactions on Design Automation of Electronic Systems (TODAES)
 <br/>
 
