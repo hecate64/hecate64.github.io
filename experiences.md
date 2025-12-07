@@ -14,24 +14,34 @@ active: experiences
 __Ulsan National Institute of Science and Technology (UNIST)__ 
 
 
-Undergraduate student, Department of Physics
+Undergraduate student, Department of Computer Science & Engineering
 <br/>
 <br/>
 
-<div style="float: right"> <code> 2022.12 - 2023.03 </code> </div> 
+<!-- <div style="float: right"> <code> 2022.12 - 2023.03 </code> </div> 
 
 __UC Irvine__ 
 
 
 Visiting Scholar, Center of Embedded and Cyber-physical Systems
 <br/>
-<br/>
+<br/> -->
 
 
 
 ## Experiences
 
-<div style="float: right">  <code> 2021.03 - Present </code> </div> 
+<div style="float: right">  <code> 2025.01 - Present </code> </div> 
+
+__[SAFARI Research Group, ETH Zürich](https://safari.ethz.ch/)__
+
+
+Research Intern
+<br/>
+<br/>
+
+
+<div style="float: right">  <code> 2021.03 - 2025.07 </code> </div> 
 
 __[Intelligent Computing and Codesign Lab, UNIST](https://iccl.unist.ac.kr/)__
 
@@ -49,7 +59,7 @@ Research Intern
 <br/>
 <br/>
 
-<div style="float: right">  <code> 2021.12 - 2023.03 </code> </div> 
+<div style="float: right">  <code> 2022.12 - 2023.03 </code> </div> 
 
 __Kurdahi's Lab, UC Irvine__
 
@@ -61,6 +71,6 @@ Visiting Scholar
 
 __Extragalactic Astrophysics Laboratory__
 
-Undergraduate Researcher
+Undergraduate Intern
 <br/>
 <br/>

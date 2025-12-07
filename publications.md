@@ -9,6 +9,39 @@ active: publications
 
 ## Publications
 
+
+<div style="float: right"> <code> ASP-DAC 2026 </code> </div> 
+
+__[Hyperdimensional Computing with Encrypted Parameters for High-Throughput Privacy-Preserving Inference](https://arxiv.org/abs/2511.00737)__ 
+
+
+*Jaewoo Park*, Chenghao Quan, and Jongeun Lee
+<br/>
+<br/>
+
+
+
+<div style="float: right"> <code> ICCAD 2025 </code> </div> 
+
+__[SPIMA: Scalable and Cost-Efficient Sparse Matrix Multiplication via Processing in DRAM Array](https://ieeexplore.ieee.org/document/11240738)__ 
+
+
+Tairali Assylbekov, Minsang Yu, *Jaewoo Park*, Mingon Kim, Seungsu Kim and Jongeun Lee
+<br/>
+<br/>
+
+
+
+<div style="float: right"> <code> ArXiv 2025 </code> </div> 
+
+__[SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV](https://arxiv.org/abs/2509.25853)__ 
+
+
+Jingyao Zhang\*, *Jaewoo Park\**, Jongeun Lee and Elaheh Sadredini
+<br/>
+<br/>
+
+
 <div style="float: right"> <code> ISOCC 2023 </code> </div> 
 
 __[Accelerating Transformers with Fourier-Based Attention for Efficient On-Device Inference](https://ieeexplore.ieee.org/abstract/document/10396620)__ 
@@ -17,6 +50,7 @@ __[Accelerating Transformers with Fourier-Based Attention for Efficient On-Devic
 Hyeonjin Jo, Chaerin Sim, *Jaewoo Park*, Jongeun Lee
 <br/>
 <br/>
+
 
 
 <div style="float: right"> <code> ICCAD 2023 </code> </div> 

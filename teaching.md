@@ -9,7 +9,26 @@ active: teaching
 
 ## Courses
 
-<div style="float: right">  <code> Spring 2022 </code> </div> 
+<div style="float: right">  <code> Fall 2025 </code> </div> 
+
+__Teaching Assistant of ETH Zürich Seminar in Computer Architecture__
+
+<br/>
+<br/>
+
+
+
+
+<div style="float: right">  <code> Fall 2025 </code> </div> 
+
+__Teaching Assistant of ETH Zürich Computer Architecture__
+
+<br/>
+<br/>
+
+
+
+<div style="float: right">  <code> 2025, 2024, 2022 </code> </div> 
 
 __[Instructor of UNIST EEE326: Tensor Processor Design](https://iccl.unist.ac.kr/~lab/Users/JongeunLee/ee326/projects.html)__ 
 
